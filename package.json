@@ -1,4 +1,8 @@
 {
+  "scripts": {
+  "start": "node calculator.js"
+  },
+  "main": "calculator.js",   
   "name": "calculator",
   "version": "1.0.0",
   "description": "Calculator Project",
